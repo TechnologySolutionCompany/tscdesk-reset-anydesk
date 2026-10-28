@@ -1,0 +1,13 @@
+# PyInstaller
+build/
+dist/
+*.spec
+Reset AnyDesk.exe
+__pycache__/
+*.pyc
+# dados de execução (logs, histórico e marcadores locais)
+reset-anydesk/
+*.log
+historico.json
+.setup_ok
+.env*
